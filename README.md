@@ -18,6 +18,22 @@ An intelligent medical diagnostics assistant powered by **EuriAI** and **LangGra
 - **🔒 Secure**: Environment-based configuration for API keys
 - **📱 Responsive Design**: Works on desktop and mobile devices
 
+## 📸 Screenshots
+
+### 🏠 Dashboard - User Input Interface
+The main dashboard provides a clean, intuitive interface for users to describe their symptoms with helpful tips and validation.
+
+![Dashboard](screenshots/dashboard.png)
+
+*Features shown: Symptom input area, validation messages, helpful tips sidebar, and professional medical interface design.*
+
+### 📋 Diagnosis Results - AI Analysis Output
+The results page displays comprehensive AI-generated medical analysis with symptom categorization and detailed recommendations.
+
+![Diagnosis Results](screenshots/result_analysis.png)
+
+*Features shown: Symptom area detection, detailed AI diagnosis with treatment recommendations, medical disclaimer, and formatted medical advice.*
+
 ## 🏗️ Architecture
 
 ```
